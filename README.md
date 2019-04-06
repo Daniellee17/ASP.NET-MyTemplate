@@ -4,4 +4,6 @@
 A template for web applicatons usong asp.net.
 
 
-![image](https://user-images.githubusercontent.com/28699887/55408918-916e7700-5593-11e9-8f9d-b792285fe547.png)
+![image](https://user-images.githubusercontent.com/28699887/55666238-4c419200-587e-11e9-9ab5-0d44392be704.png)
+![image](https://user-images.githubusercontent.com/28699887/55666243-5b284480-587e-11e9-9f5a-d0daf85007b8.png)
+![image](https://user-images.githubusercontent.com/28699887/55666243-5b284480-587e-11e9-9f5a-d0daf85007b8.png)
